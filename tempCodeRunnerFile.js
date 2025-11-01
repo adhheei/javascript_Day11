@@ -1,0 +1,1 @@
+txt => {console.log(txt)}
