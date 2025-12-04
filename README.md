@@ -1,4 +1,4 @@
-# 📅 Day 11: Promises & Promise Methods
+# 📅 Day 11: Promises and Promise Methods
 📖 Learn
 
 Understand the need for Promises — why and when they are used in JavaScript.
